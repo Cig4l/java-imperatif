@@ -1,6 +1,6 @@
-package fr.cruiz;
+package fr.diginamic;
 
-public class MonProgramme {
+public class Bonjour {
     public static void main (String args[]) {
         System.out.println("Bonjour tout le monde");
     }
