@@ -12,7 +12,7 @@ public class InversionContenu {
             System.out.println(i);
         }
 
-        System.out.println("\narrayCopy");
+        System.out.println("\narrayCopy : tous les éléments d'array dans l'ordre inverse");
         for(int j = 0; j <array.length; j++) {
             arrayCopy[j] = array[array.length- j -1];
             System.out.println(arrayCopy[j]);
